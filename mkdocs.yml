@@ -1,0 +1,40 @@
+site_name: devpogi's door
+site_author: devpogi
+site_url: https://devprabal.github.io/door
+site_description: devpogi's open door
+nav:
+  - backup: backup.md
+  - forges: forges.md
+  - softwares: softwares.md
+
+not_in_nav: |
+  /index.md
+
+theme:
+  name: terminal
+  palette: pink
+  features:
+    - navigation.side.hide
+    - navigation.top.cursor_animation.hide
+
+extra_css:
+  - stylesheets/extra.css
+
+plugins:
+  - search
+
+markdown_extensions:
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.details
+  - admonition
+  - attr_list
+  - def_list
+  - tables
+
+validation:
+  omitted_files: warn
+  absolute_links: warn
+  unrecognized_links: warn
