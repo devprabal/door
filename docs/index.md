@@ -7,7 +7,7 @@ Prabal Dev aka ==devpogi==  <img src="https://api.iconify.design/twemoji:butterf
 
 - [Readings](https://devprabal.github.io/readings/)
 - [Notes](https://devprabal.github.io/notes/)
-- [People](https://devpogi-people.netlify.app/)
+- People (ask me for a link 😉)
 - Winston | not yet public ⛓️‍💥
 
 # Links to my social presence
