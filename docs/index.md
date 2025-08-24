@@ -14,6 +14,7 @@ Prabal Dev aka devpogi  <img src="https://api.iconify.design/twemoji:butterfly.s
 - <img src="https://api.iconify.design/fa-brands:github.svg" width="24" height="24" style="vertical-align: top"> [GitHub](https://github.com/devprabal)
 - <img src="https://api.iconify.design/hugeicons:last-fm.svg" width="24" height="24" style="vertical-align: top"> [last.fm](https://www.last.fm/user/pd_weiss)
 - <img src="https://api.iconify.design/simple-icons:hevy.svg" width="24" height="24" style="vertical-align: top"> [Hevy](https://hevy.com/user/devpogi)
+- <img src="https://api.iconify.design/simple-icons:goodreads.svg" width="24" height="24" style="vertical-align: top"> [Goodreads](https://www.goodreads.com/user/show/44642692-dev-prabal)
 
 ## ==Contact== me at one of these
 
