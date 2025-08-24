@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap');
 
 :root {
-    --devp_default_highlight_color: rgba(255, 135, 211, 0.367);
+    --devp_default_highlight_color: rgba(255, 135, 211, 0.259);
     --devp_default_black_color: black;
 }
 
@@ -26,6 +26,7 @@ mark {
 
 span {
     padding: 2px 4px;
+    color: var(--devp_default_black_color);
 }
 
 a {
@@ -48,6 +49,10 @@ a:hover {
 }
 
 ::selection {
-    background-color: var(--devp_default_highlight_color);
+    background-color: color-mix(in srgb, var(--devp_default_highlight_color) 70%, transparent);
     color: var(--devp_default_black_color);
+}
+
+#built-with {
+    text-align: center;
 }
