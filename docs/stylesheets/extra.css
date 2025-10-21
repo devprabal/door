@@ -1,8 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap');
 
 :root {
-    --devp_default_highlight_color: rgba(255, 135, 211, 0.259);
-    --devp_default_black_color: black;
+    --devp_black_color: #222831;
+    --devp_bright_color: #948979;
+    --devp_dim_color: #393E46;
+    --devp_white_color: #DFD0B8;
 }
 
 body {
@@ -11,6 +13,8 @@ body {
     line-height: 1.6;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
+    background-color: var(--devp_black_color);
+    color: var(--devp_white_color);
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -19,22 +23,23 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 mark {
-    background-color: var(--devp_default_highlight_color);
+    background-color: var(--devp_bright_color);
     padding: 2px 4px;
     border-radius: 3px;
+    color: var(--devp_black_color);
 }
 
 span {
     padding: 2px 4px;
-    color: var(--devp_default_black_color);
+    color: var(--devp_black_color);
 }
 
 a {
-    color: var(--devp_default_black_color);
+    color: var(--devp_white_color);
 }
 
 a:hover span {
-    background-color: var(--devp_default_highlight_color);
+    background-color: var(--devp_bright_color);
     border-radius: 3px;
 }
 
@@ -43,16 +48,44 @@ a:hover span {
 }
 
 a:hover {
-    background-color: var(--devp_default_highlight_color);
-    color: var(--devp_default_black_color);
+    background-color: var(--devp_bright_color);
+    color: var(--devp_black_color);
     border-radius: 3px;
 }
 
 ::selection {
-    background-color: color-mix(in srgb, var(--devp_default_highlight_color) 70%, transparent);
-    color: var(--devp_default_black_color);
+    background-color: color-mix(in srgb, var(--devp_white_color) 70%, transparent);
+    color: var(--devp_black_color);
 }
 
 #built-with {
     text-align: center;
+}
+
+small {
+    background-color: var(--devp_dim_color);
+    border-radius: 3px;
+    color: #B6B09F;
+    padding: 2px 4px;
+}
+
+code {
+    background-color: var(--devp_dim_color);
+    color: var(--devp_white_color);
+    padding: 2px 4px;
+    border-radius: 3px;
+}
+
+table {
+    background-color: var(--devp_dim_color);
+    color: var(--devp_bright_color);
+}
+
+th {
+    color: var(--devp_white_color);
+}
+
+footer {
+    background-color: var(--devp_black_color);
+    color: var(--devp_bright_color);
 }

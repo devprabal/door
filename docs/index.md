@@ -1,24 +1,24 @@
 # ==About== me
 
-Prabal Dev aka devpogi  <img src="https://api.iconify.design/twemoji:butterfly.svg" width="24" height="24" style="vertical-align: middle"> 
+I'm Prabal Dev, aka `devpogi`  <img src="https://api.iconify.design/twemoji:butterfly.svg" width="24" height="24" style="vertical-align: middle"> 
 
-## Links to my ==spaces== that I am building
+## My ==spaces== 
 
-- <img src="https://api.iconify.design/material-symbols-light:book-outline.svg" width="24" height="24" style="vertical-align: top"> [Readings](https://devprabal.github.io/readings/)
-- <img src="https://api.iconify.design/material-symbols-light:stylus-fountain-pen-outline-rounded.svg" width="24" height="24" style="vertical-align: top"> [Notes](https://devprabal.github.io/notes/)
-- <img src="https://api.iconify.design/fa7-solid:people-pulling.svg" width="24" height="24" style="vertical-align: top"> People (ask me for a link 😉)
-- <img src="https://api.iconify.design/carbon:ibm-software-watsonx-document-library.svg" width="24" height="24" style="vertical-align: top"> Winston | not yet public ⛓️‍💥
+- <img src="https://api.iconify.design/material-symbols-light:book-outline.svg?color=%23DFD0B8" width="24" height="24" style="vertical-align: top"> [Readings](https://devprabal.github.io/readings/) <small>my reflections on great articles/videos that I come across</small>
+- <img src="https://api.iconify.design/material-symbols-light:stylus-fountain-pen-outline-rounded.svg?color=%23DFD0B8" width="24" height="24" style="vertical-align: top"> [Notes](https://devprabal.github.io/notes/) <small>my writings, mostly on tech</small> 
+- <img src="https://api.iconify.design/fa7-solid:people-pulling.svg?color=%23DFD0B8" width="24" height="24" style="vertical-align: top"> People <small>my people and their suggestions, link on request</small>
+- <img src="https://api.iconify.design/carbon:ibm-software-watsonx-document-library.svg?color=%23DFD0B8" width="24" height="24" style="vertical-align: top"> Winston <small>my curated collection on various topics, WIP not public</small>
 
-## Links to my ==social== presence
+## My ==activities==  
 
-- <img src="https://api.iconify.design/fa-brands:github.svg" width="24" height="24" style="vertical-align: top"> [GitHub](https://github.com/devprabal)
-- <img src="https://api.iconify.design/hugeicons:last-fm.svg" width="24" height="24" style="vertical-align: top"> [last.fm](https://www.last.fm/user/pd_weiss)
-- <img src="https://api.iconify.design/simple-icons:hevy.svg" width="24" height="24" style="vertical-align: top"> [Hevy](https://hevy.com/user/devpogi)
-- <img src="https://api.iconify.design/simple-icons:goodreads.svg" width="24" height="24" style="vertical-align: top"> [Goodreads](https://www.goodreads.com/user/show/44642692-dev-prabal)
+- <img src="https://api.iconify.design/fa-brands:github.svg?color=%23DFD0B8" width="24" height="24" style="vertical-align: top"> [GitHub](https://github.com/devprabal) <small>projects</small>
+- <img src="https://api.iconify.design/hugeicons:last-fm.svg?color=%23DFD0B8" width="24" height="24" style="vertical-align: top"> [last.fm](https://www.last.fm/user/pd_weiss) <small>music</small>
+- <img src="https://api.iconify.design/simple-icons:hevy.svg?color=%23DFD0B8" width="24" height="24" style="vertical-align: top"> [Hevy](https://hevy.com/user/devpogi) <small>workouts</small>
+- <img src="https://api.iconify.design/simple-icons:goodreads.svg?color=%23DFD0B8" width="24" height="24" style="vertical-align: top"> [Goodreads](https://www.goodreads.com/user/show/44642692-dev-prabal) <small>books & tbr</small>
 
-## ==Contact== me at one of these
+## My ==contacts== 
 
-|  telegram <img src="https://api.iconify.design/hugeicons:telegram.svg" width="24" height="24" style="vertical-align: top">  |     reddit <img src="https://api.iconify.design/hugeicons:reddit.svg" width="24" height="24" style="vertical-align: top">    |          matrix <img src="https://api.iconify.design/simple-icons:matrix.svg" width="24" height="24" style="vertical-align: top">         |
+|  telegram <img src="https://api.iconify.design/hugeicons:telegram.svg?color=%23DFD0B8" width="24" height="24" style="vertical-align: top">  |     reddit <img src="https://api.iconify.design/hugeicons:reddit.svg?color=%23DFD0B8" width="24" height="24" style="vertical-align: top">    |          matrix <img src="https://api.iconify.design/simple-icons:matrix.svg?color=%23DFD0B8" width="24" height="24" style="vertical-align: top">         |
 |:----------:|:-------------:|:-----------------------:|
 | `@devpogi` | `u/devprabal` | `@devprabal:matrix.org` |
 
@@ -26,5 +26,5 @@ Prabal Dev aka devpogi  <img src="https://api.iconify.design/twemoji:butterfly.s
 <br/>
 
 <footer id="built-with">
-Built with  <a href="https://ntno.github.io/mkdocs-terminal/configuration/features/" target="_blank" rel="noopener noreferrer">Terminal for MkDocs </a> <img src="https://api.iconify.design/line-md:heart.svg" width="24" height="24" style="vertical-align: middle">   
+Built with  <a href="https://ntno.github.io/mkdocs-terminal/configuration/features/" target="_blank" rel="noopener noreferrer">Terminal for MkDocs </a> <img src="https://api.iconify.design/line-md:heart.svg?color=%23DFD0B8" width="24" height="24" style="vertical-align: middle">   
 </footer> 
