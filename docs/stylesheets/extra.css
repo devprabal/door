@@ -1,24 +1,39 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Fira+Code:wght@300..700&display=swap");
 
+/* color scheme taken from
+https://www.happyhues.co/palettes/4
+*/
 :root {
-    --devp_black_color: #222831;
-    --devp_bright_color: #948979;
-    --devp_dim_color: #393E46;
-    --devp_white_color: #DFD0B8;
+    --devp_black_color: #16161a;
+    --devp_dim_color: #7f5af0;
+    --devp_bright_color: #2cb67d;
+    --devp_white_color: #fffffe;
 }
 
 body {
-    font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
-    font-size: 16px;
+    font-family: "Fira Code", monospace;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 18px;
     line-height: 1.6;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     background-color: var(--devp_black_color);
     color: var(--devp_white_color);
+    margin: 0 auto;
+    max-width: 1024px;
+    padding: 8px;
+    text-align: left;
 }
 
-h1, h2, h3, h4, h5, h6 {
-    font-weight: 600;
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight: 700;
     letter-spacing: -0.02em;
 }
 
@@ -36,6 +51,7 @@ span {
 
 a {
     color: var(--devp_white_color);
+    text-underline-offset: 6px;
 }
 
 a:hover span {
@@ -63,9 +79,9 @@ a:hover {
 }
 
 small {
-    background-color: var(--devp_dim_color);
+    /*background-color: var(--devp_dim_color);*/
     border-radius: 3px;
-    color: #B6B09F;
+    color: var(--devp_bright_color);
     padding: 2px 4px;
 }
 
@@ -76,16 +92,20 @@ code {
     border-radius: 3px;
 }
 
-table {
-    background-color: var(--devp_dim_color);
-    color: var(--devp_bright_color);
+ul li::before {
+    content: "→ ";
+    position: sticky;
+    right: 1em;
 }
 
-th {
-    color: var(--devp_white_color);
+ul li::after {
+    content: " ";
+    position: sticky;
+    right: 1em;
 }
 
 footer {
+    display: none;
     background-color: var(--devp_black_color);
     color: var(--devp_bright_color);
 }
