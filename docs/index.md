@@ -4,10 +4,10 @@ I'm Prabal Dev, aka `devpogi`
 
 ## My ==spaces== 
 
-- <img src="https://api.iconify.design/material-symbols-light:book-outline.svg?color=%23ECE9E6" width="24" height="24" style="vertical-align: top"> [Readings](https://devprabal.github.io/readings/) <small>my reflections on great articles/videos that I come across</small>
-- <img src="https://api.iconify.design/material-symbols-light:stylus-fountain-pen-outline-rounded.svg?color=%23ECE9E6" width="24" height="24" style="vertical-align: top"> [Notes](https://devprabal.github.io/notes/) <small>my writings, mostly on tech</small> 
-- <img src="https://api.iconify.design/fa7-solid:people-pulling.svg?color=%23ECE9E6" width="24" height="24" style="vertical-align: top"> People <small>my people and their suggestions, link on request</small>
-- <img src="https://api.iconify.design/carbon:ibm-software-watsonx-document-library.svg?color=%23ECE9E6" width="24" height="24" style="vertical-align: top"> Winston <small>my curated collection on various topics, WIP not public</small>
+- <img src="https://api.iconify.design/material-symbols-light:book-outline.svg?color=%23ECE9E6" width="24" height="24" style="vertical-align: top"> [Readings](https://devprabal.github.io/readings/) <small>reflections on the media I consume</small>
+- <img src="https://api.iconify.design/material-symbols-light:stylus-fountain-pen-outline-rounded.svg?color=%23ECE9E6" width="24" height="24" style="vertical-align: top"> [Notes](https://devprabal.github.io/notes/) <small>my writings</small> 
+- <img src="https://api.iconify.design/fa7-solid:people-pulling.svg?color=%23ECE9E6" width="24" height="24" style="vertical-align: top"> People <small>suggestions received from peeps (ask me for link)</small>
+- <img src="https://api.iconify.design/carbon:ibm-software-watsonx-document-library.svg?color=%23ECE9E6" width="24" height="24" style="vertical-align: top"> Winston <small>my curation (ask me for link)</small>
 
 ## My ==activities==  
 
