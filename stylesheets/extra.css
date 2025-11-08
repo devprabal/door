@@ -1,0 +1,121 @@
+@import url("https://fonts.googleapis.com/css2?family=Fira+Code:wght@300..700&display=swap");
+
+/* color scheme taken from
+https://www.happyhues.co/palettes/4
+*/
+:root {
+    --devp_black_color: #16161a;
+    --devp_dim_color: #7f5af0;
+    --devp_bright_color: #2cb67d;
+    --devp_white_color: #fffffe;
+}
+
+body {
+    font-family: "Fira Code", monospace;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 18px;
+    line-height: 1.6;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background-color: var(--devp_black_color);
+    color: var(--devp_white_color);
+    margin: 0 auto;
+    max-width: 1024px;
+    padding: 8px;
+    text-align: left;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight: 700;
+    letter-spacing: -0.02em;
+}
+
+mark {
+    background-color: var(--devp_bright_color);
+    padding: 2px 4px;
+    border-radius: 3px;
+    color: var(--devp_black_color);
+}
+
+span {
+    padding: 2px 4px;
+    color: var(--devp_black_color);
+}
+
+a {
+    color: var(--devp_white_color);
+    text-underline-offset: 6px;
+}
+
+a:hover span {
+    background-color: var(--devp_bright_color);
+    border-radius: 3px;
+}
+
+#terminal-mkdocs-footer-copyright-info {
+    display: none;
+}
+
+a:hover {
+    background-color: var(--devp_bright_color);
+    color: var(--devp_black_color);
+    border-radius: 3px;
+}
+
+::selection {
+    background-color: color-mix(in srgb, var(--devp_white_color) 70%, transparent);
+    color: var(--devp_black_color);
+}
+
+#built-with {
+    text-align: center;
+}
+
+small {
+    /*background-color: var(--devp_dim_color);*/
+    border-radius: 3px;
+    color: var(--devp_bright_color);
+    padding: 2px 4px;
+}
+
+code {
+    background-color: var(--devp_dim_color);
+    color: var(--devp_white_color);
+    padding: 2px 4px;
+    border-radius: 3px;
+}
+
+ul li::before {
+    content: "→ ";
+    position: sticky;
+    right: 1em;
+}
+
+ul li::after {
+    content: " ";
+    position: sticky;
+    right: 1em;
+}
+
+footer {
+    display: none;
+    background-color: var(--devp_black_color);
+    color: var(--devp_bright_color);
+}
+
+.arcticons--throne {
+  display: inline-block;
+  width: 24px;
+  height: 24px;
+  vertical-align: top;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 48 48'%3E%3Cpath fill='none' stroke='%23ECE9E6' stroke-linecap='round' stroke-linejoin='round' d='m23.836 35.274l9.062-9.502c.536-.562.66-1.401.308-2.094l-8.542-16.82a.928.928 0 0 0-1.656 0l-8.541 16.82a1.83 1.83 0 0 0 .308 2.094z' stroke-width='3'/%3E%3Cpath fill='none' stroke='%23ECE9E6' stroke-linecap='round' stroke-linejoin='round' d='M27.738 39.36a32140 32140 0 0 1-20.88-21.892c-.564-.59-1.543-.037-1.328.75l5.681 20.832a3.523 3.523 0 0 0 4.423 2.447c3.32-1.01 8.376-2.3 12.104-2.138Z' stroke-width='3'/%3E%3Cpath fill='none' stroke='%23ECE9E6' stroke-linecap='round' stroke-linejoin='round' d='M23.835 35.273c4.765-4.992 13.233-13.535 17.307-17.805c.565-.59 1.542-.038 1.328.749l-5.283 20.072a3.52 3.52 0 0 1-4.422 2.445a64 64 0 0 0-5.306-1.384' stroke-width='3'/%3E%3C/svg%3E");
+}
