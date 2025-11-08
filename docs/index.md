@@ -15,6 +15,7 @@ I'm Prabal Dev, aka `devpogi`
 - <img src="https://api.iconify.design/hugeicons:last-fm.svg?color=%23ECE9E6" width="24" height="24" style="vertical-align: top"> [last.fm](https://www.last.fm/user/pd_weiss) <small>music</small>
 - <img src="https://api.iconify.design/simple-icons:hevy.svg?color=%23ECE9E6" width="24" height="24" style="vertical-align: top"> [Hevy](https://hevy.com/user/devpogi) <small>workouts</small>
 - <img src="https://api.iconify.design/simple-icons:goodreads.svg?color=%23ECE9E6" width="24" height="24" style="vertical-align: top"> [Goodreads](https://www.goodreads.com/user/show/44642692-dev-prabal) <small>books & tbr</small>
+- <span class="arcticons arcticons--throne"></span> [Throne](https://throne.com/devpogi) <small>wishlist</small>
 
 ## My ==contacts== 
 
